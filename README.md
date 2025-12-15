@@ -11,9 +11,9 @@
 
 ## ⚡ Quick Snapshot
 
-- 🎓 Computer Science Engineer (Final Year)
+- 🎓 Computer Science Engineer 
 - 💻 Java | DSA | Frontend | React
-- 🎯 Targeting MNC roles (Cognizant, Accenture, HCL)
+- 🎯 Targeting MNC roles 
 - 🌱 Learning by building & breaking things
 
 ---
